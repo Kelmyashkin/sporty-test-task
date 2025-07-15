@@ -1,0 +1,52 @@
+{
+  "seasons": [
+    {
+      "strSeason": "2014-2015",
+      "strBadge": "https://www.thesportsdb.com/images/media/league/badgearchive/571jj21690676218.png"
+    },
+    {
+      "strSeason": "2015-2016",
+      "strBadge": "https://www.thesportsdb.com/images/media/league/badgearchive/8htub31690676197.png"
+    },
+    {
+      "strSeason": "2016-2017",
+      "strBadge": "https://www.thesportsdb.com/images/media/league/badgearchive/fcahr21690675991.png"
+    },
+    {
+      "strSeason": "2017-2018",
+      "strBadge": "https://www.thesportsdb.com/images/media/league/badgearchive/l5pfu91690675958.png"
+    },
+    {
+      "strSeason": "2018-2019",
+      "strBadge": "https://www.thesportsdb.com/images/media/league/badgearchive/58w9es1690675559.png"
+    },
+    {
+      "strSeason": "2019-2020",
+      "strBadge": "https://www.thesportsdb.com/images/media/league/badgearchive/gf8haz1690675537.png"
+    },
+    {
+      "strSeason": "2020-2021",
+      "strBadge": "https://www.thesportsdb.com/images/media/league/badgearchive/77jrgh1690675505.png"
+    },
+    {
+      "strSeason": "2021-2022",
+      "strBadge": "https://www.thesportsdb.com/images/media/league/badgearchive/o5p2941690675365.png"
+    },
+    {
+      "strSeason": "2022-2023",
+      "strBadge": "https://www.thesportsdb.com/images/media/league/badgearchive/ggf8131690675337.png"
+    },
+    {
+      "strSeason": "2023-2024",
+      "strBadge": "https://www.thesportsdb.com/images/media/league/badgearchive/htvp7j1689640911.png"
+    },
+    {
+      "strSeason": "2024-2025",
+      "strBadge": "https://www.thesportsdb.com/images/media/league/badgearchive/qsr0g31720531698.png"
+    },
+    {
+      "strSeason": "2025-2026",
+      "strBadge": "https://www.thesportsdb.com/images/media/league/badgearchive/djy7ou1751917978.png"
+    }
+  ]
+}
